@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giraffe Animated - 3D Model
+* source:	https://sketchfab.com/3d-models/giraffe-animated-3d-model-68b6b8927b0c45e4b969ee24920e1e78
+* author:	3DModelsFree (https://sketchfab.com/3DModels4Free)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giraffe Animated - 3D Model" (https://sketchfab.com/3d-models/giraffe-animated-3d-model-68b6b8927b0c45e4b969ee24920e1e78) by 3DModelsFree (https://sketchfab.com/3DModels4Free) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

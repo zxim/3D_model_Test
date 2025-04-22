@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dimorphodon
+* source:	https://sketchfab.com/3d-models/dimorphodon-76a16a78621d44fd837a2b573e8031b2
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dimorphodon" (https://sketchfab.com/3d-models/dimorphodon-76a16a78621d44fd837a2b573e8031b2) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
