@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ice Age Big Cat
+* source:	https://sketchfab.com/3d-models/ice-age-big-cat-2887bc87fbba4118905a49924a2cb0b9
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ice Age Big Cat" (https://sketchfab.com/3d-models/ice-age-big-cat-2887bc87fbba4118905a49924a2cb0b9) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
